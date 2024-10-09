@@ -1,2 +1,3 @@
 # Mishchanchuk_2024_SI
-Processed data for Mishchanchuk et al 2024
+This folder contains the data to recreate figures in Mishchanchuk et al, 'Hidden state inference requires abstract contextual representations in ventral hippocampus'
+
